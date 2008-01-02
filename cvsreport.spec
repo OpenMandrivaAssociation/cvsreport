@@ -11,6 +11,7 @@ Group:      System/Servers
 URL:        http://home.gna.org/cvsreport/
 Source:     http://download.gna.org/cvsreport/cvsreport.pkg/0.3.5/%{name}-%{version}.tar.bz2
 BuildArch:  noarch
+BuildRoot:  %{_tmppath}/%{name}-%{version}
 
 %description
 CVSreport produces text or enhanced HTML activity reports from a local or
