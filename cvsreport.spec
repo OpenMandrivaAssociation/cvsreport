@@ -1,6 +1,6 @@
 %define name    cvsreport
 %define version 0.3.5
-%define release %mkrel 8
+%define release 9
 
 Name:       %{name}
 Version:    %{version}
