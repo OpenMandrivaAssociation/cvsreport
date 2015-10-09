@@ -6,7 +6,7 @@ Summary:    Produce CVS activity reports
 License:    GPL
 Group:      System/Servers
 URL:        http://home.gna.org/cvsreport/
-Source:     http://download.gna.org/cvsreport/cvsreport.pkg/0.3.5/%{name}-%{version}.tar.bz2
+Source:     http://download.gna.org/cvsreport/cvsreport.pkg/0.3.5/%{name}-%{version}.tar.gz
 BuildArch:  noarch
 
 %description

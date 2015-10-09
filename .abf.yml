@@ -1,2 +1,4 @@
+removed_sources:
+  cvsreport-0.3.5.tar.bz2: 02c38d9073a4a7775deb83050815b3eb6c14df08
 sources:
-  "cvsreport-0.3.5.tar.bz2": 02c38d9073a4a7775deb83050815b3eb6c14df08
+  cvsreport-0.3.5.tar.gz: 6671ade652edea945a898519095342295ebd7ed4
